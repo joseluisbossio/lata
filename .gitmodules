@@ -1,0 +1,4 @@
+[submodule "johnotoole68/product-attribute"]
+	path = johnotoole68/product-attribute
+	url = git@github.com:johnotoole68/product-attribute.git
+	branch = 12.0
